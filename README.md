@@ -25,7 +25,7 @@
 
 - [SideQuest (TCC)](https://github.com/Leandro-Santana013/SideQuestV3) — Meu trabalho de conclusão de curso com foco em soluções inovadoras.
 - [McDonalds Projetin](https://github.com/GuiFS0703/lojaMCDonald-s) — Um projetinho básico para treinar conceitos de desenvolvimento.
-- [PRojetin para testar habilidades de Node] (https://github.com/GuiFS0703/app-lista-tarefas) - Um projeto para estudar um pouco de Node!
+- [Projetin para testar habilidades de Node](https://github.com/GuiFS0703/app-lista-tarefas) - Um projeto para estudar um pouco de Node!
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-salt%C3%A3o-283430305/)
