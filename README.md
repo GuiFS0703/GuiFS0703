@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-Fatec-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
