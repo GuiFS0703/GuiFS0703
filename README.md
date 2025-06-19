@@ -26,6 +26,7 @@
 - [McDonalds Projetin](https://github.com/GuiFS0703/lojaMCDonald-s) — Um projetinho básico para treinar conceitos de desenvolvimento.
 - [Projetin para testar habilidades de Node](https://github.com/GuiFS0703/app-lista-tarefas) - Um projeto para estudar um pouco de Node.
 - [Projeto de Engenharia de Software](https://github.com/MariaClaraSCM/AtelieVoEgina) - Ajudando a mexer em algumas pages e cuidando do backend e talvez banco de dados do sistema.
+- [Projeto de Design Digital](https://github.com/GuiFS0703/projDesignDigital) - Desenvolvendo, principalmente, o design baseado no que o cliente queria.
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-salt%C3%A3o-283430305/)
