@@ -43,7 +43,7 @@
 **Estudo de Node.js** - Projeto focado em backend e APIs
 
 ### [Ateliê Vo Egina](https://github.com/MariaClaraSCM/AtelieVoEgina) 
-**Projeto de Engenharia de Software** - Backend e banco de dados para sistema comercial
+**Projeto de Engenharia de Software** - Backend e banco de dados para sistema comercial (repositório sem backend e banco, mas terá no futuro em um outro repositório do mesmo projeto)
 
 ### [System of a Down Tribute](https://guifs0703.github.io/System-of-a-down-tribute/)
 **Foco em Design** - Website tributo para aprimorar habilidades front-end e UX/UI
