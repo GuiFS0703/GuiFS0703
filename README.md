@@ -1,13 +1,6 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
+<h1 align="center">Olá, eu sou o Guilherme</h1>
 
 <h3 align="center">Desenvolvedor Full Stack em formação | Fatec Praia Grande</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuiFS0703&color=blue" alt="Profile views"/>
-  <a href="https://github.com/GuiFS0703?tab=followers">
-    <img src="https://img.shields.io/github/followers/GuiFS0703?style=social" alt="Followers"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
