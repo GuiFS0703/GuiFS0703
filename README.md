@@ -47,17 +47,11 @@
 
 ## 🚀 Projetos em Destaque
 
-### [SideQuest (TCC)](https://github.com/Leandro-Santana013/SideQuestV3) 
-**Soluções inovadoras** - Trabalho de conclusão de curso desenvolvido em grupo com foco em desenvolvimento full stack
-
 ### [McDonald's Projeto](https://github.com/GuiFS0703/lojaMCDonald-s) 
 **Projeto acadêmico** - Sistema web para praticar conceitos fundamentais de desenvolvimento
 
 ### [App Lista de Tarefas](https://github.com/GuiFS0703/app-lista-tarefas) 
 **Estudo de Node.js** - Aplicação focada em backend e desenvolvimento de APIs
-
-### [Ateliê Vo Egina](https://github.com/MariaClaraSCM/Atelie2.0) 
-**Projeto de Engenharia de Software** - Sistema completo para gerenciamento de ateliê com diversas funcionalidades
 
 ### [System of a Down Tribute](https://guifs0703.github.io/System-of-a-down-tribute/)
 **Foco em Design** - Website tributo para aprimorar habilidades front-end e UX/UI
