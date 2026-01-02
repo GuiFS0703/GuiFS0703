@@ -16,7 +16,6 @@
 
 - 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Praia Grande
 - 💻 Atualmente focado em **Java** e **Spring** para desenvolvimento backend
-- 🌐 Desenvolvendo skills em **JavaScript** e **Node.js** para full stack
 - 🚀 Buscando **oportunidades de estágio** em desenvolvimento
 - 🎮 Apaixonado por games, tecnologia e resolver problemas complexos
 - 📚 **Próximos objetivos:** Spring Boot, React e Python
@@ -27,6 +26,7 @@
 **💻 Linguagens & Backend:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
