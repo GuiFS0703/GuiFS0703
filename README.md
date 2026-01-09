@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o Guilherme</h1>
 
-<h3 align="center">Desenvolvedor Full Stack em formação | Fatec Praia Grande</h3>
+<h3 align="center">Desenvolvedor Backend em formação | Fatec Praia Grande</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -16,8 +16,8 @@
 
 - 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Praia Grande
 - 💻 Atualmente focado em **Java** e **Spring** para desenvolvimento backend
-- 🚀 Buscando **oportunidades de estágio** em desenvolvimento
-- 🎮 Apaixonado por games, tecnologia e resolver problemas complexos
+- 🚀 Buscando **oportunidades de estágio** em desenvolvimento e na área de ti
+- 🎮 Apaixonado por games, tecnologia e em aprender
 - 📚 **Próximos objetivos:** Spring Boot, React e Python
 - ⚡ **Curiosidade:** Sempre buscando aprender novas tecnologias e metodologias
 
@@ -26,7 +26,6 @@
 **💻 Linguagens & Backend:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -37,11 +36,13 @@
 
 **🗄️ Banco de Dados:**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **🛠️ Ferramentas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ## 🚀 Projetos em Destaque
@@ -54,6 +55,14 @@
 
 ### [System of a Down Tribute](https://guifs0703.github.io/System-of-a-down-tribute/)
 **Foco em Design** - Website tributo para aprimorar habilidades front-end e UX/UI
+
+### [Projeto Sidequest](https://github.com/seu-usuario/sidequest)  
+**Projeto acadêmico** - Plataforma web para intermediação de serviços domésticos.
+
+**Minhas responsabilidades:**
+*   **Design & UI/UX:** Criação completa da identidade visual, wireframes e design de interface.
+*   **Desenvolvimento Front-end:** Implementação das páginas e componentes visuais utilizando HTML, CSS e JavaScript.
+*   **Abordagem:** Foco exclusivo na camada de apresentação (front-end), sem envolvimento no back-end devido ao estágio inicial de aprendizado na época.
 
 ## 📊 Estatísticas do GitHub
 
